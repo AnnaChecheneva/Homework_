@@ -1,0 +1,16 @@
+D:\Visual studio\Homework\Homework\hwSeminar7.2\task01\bin\Debug\net6.0\task01.exe
+D:\Visual studio\Homework\Homework\hwSeminar7.2\task01\bin\Debug\net6.0\task01.deps.json
+D:\Visual studio\Homework\Homework\hwSeminar7.2\task01\bin\Debug\net6.0\task01.runtimeconfig.json
+D:\Visual studio\Homework\Homework\hwSeminar7.2\task01\bin\Debug\net6.0\task01.dll
+D:\Visual studio\Homework\Homework\hwSeminar7.2\task01\bin\Debug\net6.0\ref\task01.dll
+D:\Visual studio\Homework\Homework\hwSeminar7.2\task01\bin\Debug\net6.0\task01.pdb
+D:\Visual studio\Homework\Homework\hwSeminar7.2\task01\obj\Debug\net6.0\task01.GlobalUsings.g.cs
+D:\Visual studio\Homework\Homework\hwSeminar7.2\task01\obj\Debug\net6.0\task01.csproj.AssemblyReference.cache
+D:\Visual studio\Homework\Homework\hwSeminar7.2\task01\obj\Debug\net6.0\task01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual studio\Homework\Homework\hwSeminar7.2\task01\obj\Debug\net6.0\task01.AssemblyInfoInputs.cache
+D:\Visual studio\Homework\Homework\hwSeminar7.2\task01\obj\Debug\net6.0\task01.AssemblyInfo.cs
+D:\Visual studio\Homework\Homework\hwSeminar7.2\task01\obj\Debug\net6.0\task01.csproj.CoreCompileInputs.cache
+D:\Visual studio\Homework\Homework\hwSeminar7.2\task01\obj\Debug\net6.0\task01.dll
+D:\Visual studio\Homework\Homework\hwSeminar7.2\task01\obj\Debug\net6.0\ref\task01.dll
+D:\Visual studio\Homework\Homework\hwSeminar7.2\task01\obj\Debug\net6.0\task01.pdb
+D:\Visual studio\Homework\Homework\hwSeminar7.2\task01\obj\Debug\net6.0\task01.genruntimeconfig.cache
